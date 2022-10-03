@@ -1,0 +1,21 @@
+body{
+  background-color: bisque;
+}
+#title {
+    text-align: center;
+  }
+  
+  img {
+    flex-direction: column;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .gallery-container {
+    /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+    background-blend-mode:hard-light;
+    background-color:bisque;
+    margin-left: auto;
+    margin-right: auto;
+  }
